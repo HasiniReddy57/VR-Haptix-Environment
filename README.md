@@ -79,8 +79,10 @@ Follow these steps to set up the project locally:
    For issues, please open an issue in the [GitHub Issues section](https://github.com/HasiniReddy57/VR-Haptix-Environment/issues).  
 
 ---
+
+
+Thank you for exploring the VR Haptix Environment! 🚀  
 ### Credits
 
 VR Environment developed and maintained by [Hasini Patlolla](mailto:hpatloll@uci.edu).
 
-Thank you for exploring the VR Haptix Environment! 🚀  
