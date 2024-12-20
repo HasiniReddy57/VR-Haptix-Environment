@@ -1,6 +1,6 @@
 # VR Haptix Environment
 
-Welcome to the **VR Haptix Environment** project! This Unity-based project focuses on delivering immersive VR experiences with integrated haptic feedback. This README provides detailed steps to set up, clone, and run the project locally.
+Welcome to the **VR Haptix Unity Environment Setup** of our capstone project **Haptic Feedback for Stroke Rehabilitation in Virtual Environment**! This Unity-based project focuses on delivering immersive VR experiences with integrated haptic feedback. This README provides detailed steps to set up, clone, and run the project locally.
 
 ---
 
